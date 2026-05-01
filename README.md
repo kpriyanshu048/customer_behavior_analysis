@@ -65,14 +65,8 @@ This project focuses on analyzing customer behavior to understand **engagement p
 
 ---
 
-## 📁 Project Structure
-
-```
-├── data/
-├── notebooks/
-├── outputs/
-├── README.md
-```
+## 📁 Files in Repository
+customer_behavior_analysis.ipynb – Complete analysis
 
 ---
 
